@@ -1,0 +1,54 @@
+html, 
+body{
+    background-color: #0066999e;
+    margin: 0;
+    padding: 0;
+    background-color: #17a2b8;
+    height: 100vh;
+    min-height: 100vh;
+}
+
+.card-mid{
+        transform: translate(0, 200%);   
+    -ms-transform: translate(0, 200%);   
+    -o-transform: translate(0, 200%);   
+}
+
+
+/*
+ Base colors
+**************/
+.base-color{
+    color:#C6007E ;
+}
+
+.base-border-color{
+    border-color: #C6007E;
+}
+
+.base-bg-color{
+    background-color: #C6007E;
+}
+
+.rounded-button-xl {
+    border-radius: 16px;
+    padding: 5px 25px 5px 25px;
+}
+
+.font-weight-bold{
+    font-weight: bold;
+}
+
+.border-rounded-xl{
+    border-radius: 20px;
+}
+
+.pull-right{
+    float: right;
+}
+
+.secoundry-color{
+    background-color: #6ba4b812;
+   
+}
+
