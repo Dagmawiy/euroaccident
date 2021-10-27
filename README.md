@@ -49,6 +49,7 @@ The server will run on port 5000. If you wish to change the port please make sur
 
 - cd into project front-end root like so cd/euro/client 
 - npm install
+- Obs if you have problems with starting up the project run this command before npm start export NODE_OPTIONS=--openssl-legacy-provider
 - npm start 
 
 You web browser will open with the front page of the assignment
